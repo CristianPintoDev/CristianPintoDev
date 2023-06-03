@@ -2,7 +2,7 @@
 <header>
     <div class="banner-container">
         <div class="banner-logo">
-            <img src="https://github.com/CristianPintoDev/CristianPintoDev/blob/main/img/IMG_9395-Pano.jpg?raw=true" alt="Logo de ejemplo">
+            <img src="https://github.com/CristianPintoDev/CristianPintoDev/blob/main/img/IMG_9395-Pano.jpg?raw=true">
         </div>
         <div class="title">
             <h1>¡Hola!, Soy Cristian Pinto</h1>
