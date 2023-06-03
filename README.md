@@ -2,7 +2,7 @@
 <header>
     <div class="banner-container">
         <div class="banner-logo">
-            <img src="https://github.com/CristianPintoDev/CristianPintoDev/blob/main/img/IMG_9395-Pano.jpg?raw=true">
+            <img src="https://github.com/CristianPintoDev/CristianPintoDev/blob/main/img/IMG_9395-Pano.jpg?raw=true" alt="Logo de ejemplo">
         </div>
         <div class="title">
             <h1>¡Hola!, Soy Cristian Pinto</h1>
@@ -29,8 +29,7 @@ Aquí menciono algunas de mis habilidades principales:
 
 ## Cómo contactarme
 
+
 [![Linkedin: Cristian Pinto](https://img.shields.io/badge/-CristianPinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-pinto/)](https://www.linkedin.com/in/cristian-pinto/)
 [![Instagram: Cristianpinto_f](https://img.shields.io/twitter/url?color=%233f729b&label=Cristianpinto_f&logo=Instagram&logoColor=https%3A%2F%2Fgiphy.com%2Fstickers%2Finstagram-social-media-insta-QWpK88H1g9PtmtQly1&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fcristianpinto_f%2F)](https://www.instagram.com/cristianpinto_f/)
 [![GitHub CristianPintoDev](https://img.shields.io/github/followers/CristianPintoDev?label=follow&style=social)](https://github.com/CristianPintoDev)
-
-
