@@ -33,29 +33,4 @@ Aquí menciono algunas de mis habilidades principales:
 [![Instagram: Cristianpinto_f](https://img.shields.io/twitter/url?color=%233f729b&label=Cristianpinto_f&logo=Instagram&logoColor=https%3A%2F%2Fgiphy.com%2Fstickers%2Finstagram-social-media-insta-QWpK88H1g9PtmtQly1&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fcristianpinto_f%2F)](https://www.instagram.com/cristianpinto_f/)
 [![GitHub CristianPintoDev](https://img.shields.io/github/followers/CristianPintoDev?label=follow&style=social)](https://github.com/CristianPintoDev)
 
-<!--
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
-
-
-
-
-
-### Hi there 👋
-
-
-**CristianPintoDev/CristianPintoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
