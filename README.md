@@ -1,9 +1,21 @@
-# ¡Hola!, Soy Cristian Pinto
+
+<header>
+    <div class="banner-container">
+        <div class="banner-logo">
+            <img src="img/img_9395-pano.jpg" alt="Logo de ejemplo">
+        </div>
+        <div class="title">
+            <h1>¡Hola!, Soy Cristian Pinto</h1>
+        </div>
+    </div>
+</header>
+
+
 
 
 ## Acerca de mí
 
-Soy un desarrollador de software chileno apasionado por la tecnologia y nuevos conocimientos, mi orientacion es mas hacia el backend con lenguahes como Python y tambien Base de datos SQL, con conocimientos en otros lenguajes como Java, C++ y C#. Me encanta aprender cosas nuevas y estar al tanto de las últimas tendencias en el mundo de la programación.
+Soy un desarrollador de software chileno apasionado por la tecnologia y nuevos conocimientos, mi orientacion es mas hacia el backend con lenguahes como Python y tambien Base de datos SQL, con conocimientos en otros lenguajes como Java, C++ y C#. Me encanta aprender cosas nuevas y estar al tanto de las últimas tendencias en el mundo de la programación, y como puedes ver mas arriba tambien me gusta la fotografia la cual practico en mis tiempos libres.
 
 Actualmente trabajo en proyectos de investigacion sobre enfermedades cronicas como encargado de los sistemas informaticos en terreno.
 
