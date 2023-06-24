@@ -24,7 +24,7 @@ Actualmente trabajo en proyectos de investigacion sobre enfermedades cronicas co
 
 Aquí menciono algunas de mis habilidades principales:
 
-- Lenguajes y herramientas principales: Python, FastAPI, Sql, MySql, R, Stata.
+- Lenguajes y herramientas principales: Python, FastAPI, Sql, MySql, R, Stata, ORM.
 - Otras habilidades: Habilidades interpersonales y sociales.
 
 ## Cómo contactarme
