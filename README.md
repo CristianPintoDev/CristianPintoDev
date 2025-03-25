@@ -30,7 +30,7 @@ Aquí menciono algunas de mis habilidades principales:
 ## Cómo contactarme
 
 
-[![Web: Encriptado de Texto](https://img.shields.io/badge/-Encriptado%20de%20Texto-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://cristianpintodev.github.io/Encriptado-de-Texto/)](https://cristianpinto.cl)
-[![Linkedin: Cristian Pinto](https://img.shields.io/badge/-CristianPinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-pinto/)](https://www.linkedin.com/in/cristian-pinto/)
+[![CristianPinto.cl](https://img.shields.io/badge/-CristianPinto.cl-blue?style=flat-square&link=https://cristianpintodev.github.io/Encriptado-de-Texto/)](https://cristianpinto.cl)
+[![Linkedin: Cristian Pinto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-pinto/)](https://www.linkedin.com/in/cristian-pinto/)
 [![Instagram: Cristianpinto_f](https://img.shields.io/twitter/url?color=%233f729b&label=Cristianpinto_f&logo=Instagram&logoColor=https%3A%2F%2Fgiphy.com%2Fstickers%2Finstagram-social-media-insta-QWpK88H1g9PtmtQly1&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fcristianpinto_f%2F)](https://www.instagram.com/cristianpinto_f/)
 [![GitHub CristianPintoDev](https://img.shields.io/github/followers/CristianPintoDev?label=follow&style=social)](https://github.com/CristianPintoDev)
