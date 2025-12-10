@@ -15,17 +15,25 @@
 
 ## Acerca de mí
 
-Soy un desarrollador de software chileno apasionado por la tecnologia y nuevos conocimientos, mi orientacion es mas hacia el backend con lenguahes como Python y tambien Base de datos SQL, con conocimientos en otros lenguajes como Java, C++ y C#. Me encanta aprender cosas nuevas y estar al tanto de las últimas tendencias en el mundo de la programación, y como puedes ver mas arriba tambien me gusta la fotografia la cual practico en mis tiempos libres.
+Analista y programador computacional con sólida experiencia en soporte técnico, gestión de sistemas y análisis de datos en proyectos de investigación en salud. Mi trabajo se ha centrado en integrar, validar y procesar información desde distintas plataformas como Python, SQL, MySQL, STATA, R y REDCap, desarrollando soluciones para mejorar flujos de información y calidad de datos.
 
-Actualmente trabajo en proyectos de investigacion sobre enfermedades cronicas como encargado de los sistemas informaticos en terreno.
+Me encuentro en constante búsqueda de nuevos conocimientos y tecnologías, especialmente en soporte TI y en desarrollo backend y optimización de procesos.
 
+Fuera del ámbito profesional, disfruto la fotografía, especialmente la fotografía de naturaleza y macrofotografía.
 
 ## Mis habilidades
 
-Aquí menciono algunas de mis habilidades principales:
+-    Lenguajes y herramientas principales:
+     Python, FastAPI, SQL, MySQL, STATA, R, REDCap, HTML, CSS, JavaScript.
 
-- Lenguajes y herramientas principales: Python, FastAPI, Sql, MySql, R, Stata, ORM.
-- Otras habilidades: Habilidades interpersonales y sociales.
+-    Tecnologías adicionales:
+     Linux (Debian, Ubuntu, Kali), Windows, VS Code, Git y GitHub, Docker, WordPress (Elementor, Divi), gestión de DNS.
+
+ -   Competencias técnicas destacadas:
+     Integración y validación de datos, soporte técnico avanzado, administración de plataformas, creación de reportes y análisis para la toma de decisiones.
+
+Habilidades interpersonales:
+Trabajo en equipo, comunicación efectiva, aprendizaje continuo y adaptabilidad.
 
 ## Cómo contactarme
 
