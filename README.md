@@ -1,9 +1,6 @@
 
 <header>
     <div class="banner-container">
-        <div class="banner-logo">
-            
-        </div>
         <div class="title">
             <h1>¡Hola!, Soy Cristian Pinto</h1>
         </div>
